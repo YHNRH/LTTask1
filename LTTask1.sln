@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTTask1", "LTTask1\LTTask1.csproj", "{D178D0B4-3E51-4480-8E5D-79A8C04B3EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D178D0B4-3E51-4480-8E5D-79A8C04B3EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D178D0B4-3E51-4480-8E5D-79A8C04B3EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D178D0B4-3E51-4480-8E5D-79A8C04B3EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D178D0B4-3E51-4480-8E5D-79A8C04B3EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0911614-53F6-4DE7-A8F0-E3D456B79BE3}
+	EndGlobalSection
+EndGlobal
